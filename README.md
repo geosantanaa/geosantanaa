@@ -10,7 +10,8 @@ Bem-vindo ao meu GitHub! Sou uma apaixonada por tecnologia, atualmente cursando 
 - ✨ Apaixonada por tecnologia e inovação.
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=geosantanaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://beacons.al/geosantanaa)
-![Minhas Linguagens](https://api.github.com/users/geosantanaa/repos/languages)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=geosantanaa&layout=compact&theme=dracula)
+
 
 
 ## Entre em Contato 📫
