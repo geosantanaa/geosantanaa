@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, sou a Geovana! ✨👩🏽‍💻
 
-<!--
-**geosantanaa/geosantanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Sou uma apaixonada por tecnologia, atualmente cursando Sistemas para Internet na UNICAP e trabalhando como Analista de Soluções.
 
-Here are some ideas to get you started:
+## Sobre mim 👩🏽‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduanda em Sistemas para Internet na UNICAP.
+- 💼 Analista de Soluções.
+- 🌱 Sempre buscando aprender e crescer na área de desenvolvimento de software.
+- ✨ Apaixonada por tecnologia e inovação.
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=geosantanaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://beacons.al/geosantanaa)
+![Minhas Linguagens](https://img.shields.io/github/languages/count/geosantanaa/geosantanaa)
+
+
+## Entre em Contato 📫
+
+Você pode me encontrar online em várias plataformas. Sinta-se à vontade para entrar em contato:
+
+- 🌐 [Website](https://beacons.al/geosantanaa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/geovana-maria)
+- 📧 [Email](geo.maria117@gmail.com)
+
+Fique à vontade para explorar meus projetos e contribuições no meu GitHub. Espero que você encontre algo interessante por aqui! 😊
