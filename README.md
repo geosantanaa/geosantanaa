@@ -1,6 +1,6 @@
 # Olá, sou a Geovana! ✨👩🏽‍💻
 
-Bem-vindo ao meu GitHub! Sou uma apaixonada por tecnologia, atualmente cursando Sistemas para Internet na UNICAP e trabalhando como Analista de Soluções.
+Bem-vindo ao meu GitHub! Sou apaixonada por tecnologia, estudante de Sistemas para Internet na UNICAP e Analista de Soluções.
 
 ## Sobre mim 👩🏽‍💻
 
