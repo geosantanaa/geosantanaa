@@ -1,10 +1,8 @@
 # Olá, sou a Geovana! ✨👩🏽‍💻
-
-Bem-vindo ao meu GitHub! Sou apaixonada por tecnologia, estudante de Sistemas para Internet na UNICAP e Analista de Soluções.
+Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e ideias inovadoras. Atualmente, estou imersa no mundo das tecnologias front-end, onde tenho documentado toda a minha jornada. A cada atualização, também mantenho meus repositórios atualizados. Sinta-se à vontade para explorá-los e acompanhar minha evolução! 🚀💜
 
 ## Sobre mim 👩🏽‍💻
-
-- 🎓 Graduanda em Sistemas para Internet na UNICAP.
+- 🎓 4° período de Sistemas para Internet na Universidade Católica de Pernambuco.
 - 💼 Analista de Soluções.
 - 🌱 Sempre buscando aprender e crescer na área de desenvolvimento de software.
 - ✨ Apaixonada por tecnologia e inovação.
@@ -16,7 +14,6 @@ Bem-vindo ao meu GitHub! Sou apaixonada por tecnologia, estudante de Sistemas pa
 
 
 ## Entre em Contato 📫
-
 Você pode me encontrar online em várias plataformas. Sinta-se à vontade para entrar em contato:
 
 - 🌐 [Website](https://beacons.al/geosantanaa)
