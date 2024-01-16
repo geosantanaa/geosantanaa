@@ -1,5 +1,5 @@
 # Olá, sou a Geovana! ✨👩🏽‍💻
-Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e ideias inovadoras. Atualmente, estou inicando uma imersão no mundo dos dados. Sinta-se à vontade para meus projetos e acompanhar minha evolução! 🚀💜
+Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e ideias inovadoras. Atualmente, procurando sempre me desenvolver, e aumentar cada vez mais minha bagagem de conhecimento Sinta-se à vontade para meus projetos e acompanhar minha evolução! 🚀💜
 
 ## Sobre mim 👩🏽‍💻
 - 🎓 4° período de Sistemas para Internet na Universidade Católica de Pernambuco.
