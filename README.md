@@ -15,7 +15,6 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e idei
 ## Entre em Contato 📫
 Você pode me encontrar online em várias plataformas. Sinta-se à vontade para entrar em contato:
 
-- 🌐 [Website](https://beacons.al/geosantanaa)
 - 💼 [LinkedIn](https://www.linkedin.com/in/geovana-maria)
 - 📧 [Email](geo.maria117@gmail.com)
 
