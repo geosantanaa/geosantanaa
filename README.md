@@ -1,8 +1,8 @@
 # Olá, sou a Geovana! ✨👩🏽‍💻
-Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e ideias inovadoras. Tenho experiência com back end em Java e Spring boot, atualmente estou buscando estar sempre atualizada com as tecnologias atuais e continuo me desenvolvendo, e aumentando cada vez mais minha bagagem de conhecimento. Sinta-se à vontade para meus projetos e acompanhar minha evolução! 🚀💜
+Bem-vindo ao meu GitHub! Sou uma desenvolvedora apaixonada por tecnologia e ideias inovadoras. Tenho experiência com back end em Java e Spring boot e front end com Angular, atualmente estou buscando estar sempre atualizada com as tecnologias atuais e continuo me desenvolvendo, e aumentando cada vez mais minha bagagem de conhecimento. Sinta-se à vontade para meus projetos e acompanhar minha evolução! 🚀💜
 
 ## Sobre mim 👩🏽‍💻
-- 🎓 5° período de Sistemas para Internet na Universidade Católica de Pernambuco.
+- 🎓 Formada em Sistemas para Internet pela Universidade Católica de Pernambuco.
 - 🌱 Sempre buscando aprender e crescer na área de desenvolvimento de software.
 - ✨ Apaixonada por tecnologia e inovação.
 
